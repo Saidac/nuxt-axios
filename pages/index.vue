@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtZeit
+        nuxt-axios
       </h1>
       <h2 class="subtitle">
-        Practice deploying nuxt app with zeit
+        Nuxt app with axios
       </h2>
       <div class="links">
         <a
